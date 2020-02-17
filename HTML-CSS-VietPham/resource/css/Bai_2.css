@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+h2{
+    text-decoration: underline;
+    color: blue;
+    
+}
+p{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+h3{
+    font-weight: bold;
+}
+h4{
+    color:red;
+    font-size: x-large;
+    background-color: pink;
+    text-align: center;
+}
+hr{
+    width: 300px;
+}
